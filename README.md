@@ -20,10 +20,11 @@ e tela cheia, um banco de dados relacional do zero e um app de finanças que rod
     <td colspan="2" valign="top">
       <img src="assets/clareira.png" align="right" width="120" alt="Ícone do Clareira"/>
       <h3><a href="https://github.com/AntonioHKZ/clareira-releases">Clareira</a></h3>
-      App Android para assistir vídeos em tela cheia, com a experiência de um app nativo:
+      App Android para assistir vídeos <b>sem anúncios</b>, com a experiência de um app nativo:
+      <b>bloqueador de anúncios embutido</b> (uBlock Origin rodando no motor do Firefox),
       <b>miniplayer</b> arrastável, <b>picture-in-picture</b> por cima de outros apps,
-      tela cheia ao girar o celular, login persistente e <b>relatório de erro</b> com um toque.
-      Distribuído por GitHub Releases, com versões frequentes e changelog a cada uma.
+      login persistente e <b>relatório de erro</b> com um toque.
+      Feito em Kotlin e distribuído pelo GitHub Releases, com changelog a cada versão.
       <br><br>
       <img src="https://skillicons.dev/icons?i=kotlin,js,css,python,androidstudio" height="32"/>
     </td>
