@@ -54,7 +54,6 @@ e tela cheia, um banco de dados relacional do zero e um app de finanças que rod
 | | |
 |---|---|
 | **Front-end** | <img src="https://skillicons.dev/icons?i=ts,js,react,angular,tailwind,vite,html,css" height="36"/> |
-| **Back-end** | <img src="https://skillicons.dev/icons?i=python,nodejs" height="36"/> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" height="36"/> |
-| **Dados** | <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="36"/> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux" height="36"/> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=python,java,nodejs" height="36"/> |
+| **Dados** | <img src="https://skillicons.dev/icons?i=mysql" height="36"/> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" height="36"/> |
